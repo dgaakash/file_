@@ -1,4 +1,4 @@
-wa#(©)CodeXBotz
+(©)CodeXBotz
 #Recoded By @Its_Tartaglia_Childe
 
 
