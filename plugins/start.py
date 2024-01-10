@@ -1,4 +1,4 @@
-#(©)CodeXBotz
+wa#(©)CodeXBotz
 #Recoded By @Its_Tartaglia_Childe
 
 
@@ -88,7 +88,7 @@ async def start_command(client: Client, message: Message):
         reply_markup = InlineKeyboardMarkup(
             [
     [
-        InlineKeyboardButton("🗿 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 🗿", url="https://t.me/Bhargav_Gadekar"),
+        InlineKeyboardButton("🗿 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 🗿", url="https://t.me/anime_warior"),
     ],
     [
                     InlineKeyboardButton("⚔️ About Me ⚔️", callback_data = "about"),
